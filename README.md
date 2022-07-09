@@ -4,7 +4,7 @@
 
 I am working as a web developer from last 1.3 years. I love to create and maintain websites. I always try to learn something new. I love to solve real world problems. I created more then 15 website for my clients. I pride myself of doing quality work and maintaining excelient communications.
 
-Skills: Laravel / PHP / REACT / JS / HTML / CSS /MySQL
+Skills: Laravel / PHP / REACT / JS / HTML / CSS / MySQL
 
 - 🔭 I’m currently working on Fiver.com 
 - 🌱 I’m currently learning JavaScript 
