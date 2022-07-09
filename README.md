@@ -26,4 +26,6 @@ Skills: Laravel / PHP / REACT / JS / HTML / CSS /MySQL
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=opusaha)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=opusaha)  
+
 ![Profile views](https://gpvc.arturio.dev/opusaha)  
