@@ -13,17 +13,22 @@
   </a>
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=opusaha&style=flat-square&color=blue" alt=""/></div>
-<h1> Hi👋,</br> I'm Saboj Kumar Shaha </h1>
+<h2> Hi👋,</br> I'm Saboj Kumar Shaha </h2>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div>
-### :woman_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on leetcode and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Saboj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saboj-kumar-shaha-37bb581b2/)
-### :hammer_and_wrench: Languages and Tools :
+<h2>:man_technologist: About Me :</h2>
+<p>:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</p>
+<p>:seedling: Exploring Technical Content Writing.</p>
+<p>:zap: In my free time, I solve problems on leetcode and read tech articles.</p>
+<p>:mailbox:How to reach me: 
+<a href="https://www.linkedin.com/in/saboj-kumar-shaha-37bb581b2/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</p>
+</div>
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -34,7 +39,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel"  alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github"  alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache"  alt="Apache" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github"  alt="Github" width="40" height="40"/>&nbsp;
 </div>
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=opusaha
+<h2>:fire: My Stats :</h2>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
