@@ -1,9 +1,8 @@
-### Hi there 👋,</br> My name is Opu Saha
-####I am a Web Developer
-</br>
 ![Web Developer](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
-I am working as a web developer from last 1.3 years.
+### Hi there 👋, my name is Opu
+
+I am working as a web developer from last 1.3 years. I love to create and maintain websites. I always try to learn something new. I love to solve real world problems. I created more then 15 website for my clients. I pride myself of doing quality work and maintaining excelient communications.
 
 Skills: Laravel / PHP / REACT / JS / HTML / CSS /MySQL
 
