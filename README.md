@@ -1,6 +1,6 @@
 ![Web Developer](https://github.com/opusaha/opusaha/blob/main/cover.png)
 
-### Hi there 👋, my name is Opu
+### Hi there 👋, My name is Saboj
 
 I am working heardly to be a webdeveloper. I love to create and maintain websites. I always try to learn something new. I love to solve real world problems. I created more then 10 website for my clients. I pride myself of doing quality work and maintaining excelient communications.
 
