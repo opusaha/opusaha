@@ -1,4 +1,4 @@
-![Web Developer](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+![Web Developer](https://github.com/opusaha/opusaha/blob/main/cover.png)
 
 ### Hi there 👋, my name is Opu
 
