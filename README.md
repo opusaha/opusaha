@@ -1,6 +1,7 @@
 ![Web Developer](https://github.com/opusaha/opusaha/blob/main/cover.png)
 
 Hi there 👋, My name is Saboj
+
 I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootstrap, CSS, AJAX, and API. I love to create and maintain websites, and I pride myself on doing quality work and maintaining excellent communication with clients. I have created more than 10 websites for clients, and I am always looking to learn something new.
 
 Skills: Laravel / PHP / JavaScript / jQuery / Bootstrap / CSS / AJAX / API / MySQL
@@ -23,6 +24,5 @@ Skills: Laravel / PHP / JavaScript / jQuery / Bootstrap / CSS / AJAX / API / MyS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=opusaha)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=opusaha)  
 
 ![Profile views](https://gpvc.arturio.dev/opusaha)  
