@@ -1,13 +1,10 @@
 ![Web Developer](https://github.com/opusaha/opusaha/blob/main/cover.png)
 
-### Hi there 👋, My name is Saboj
+Hi there 👋, My name is Saboj
+I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootstrap, CSS, AJAX, and API. I love to create and maintain websites, and I pride myself on doing quality work and maintaining excellent communication with clients. I have created more than 10 websites for clients, and I am always looking to learn something new.
 
-I am working heardly to be a webdeveloper. I love to create and maintain websites. I always try to learn something new. I love to solve real world problems. I created more then 10 website for my clients. I pride myself of doing quality work and maintaining excelient communications.
+Skills: Laravel / PHP / JavaScript / jQuery / Bootstrap / CSS / AJAX / API / MySQL
 
-Skills: Laravel / PHP / REACT / JS / HTML / CSS / MySQL
-
-- 🔭 I’m currently working on Fiver.com 
-- 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: sahaapo@gmail.com 
 
