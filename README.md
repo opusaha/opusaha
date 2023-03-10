@@ -16,9 +16,6 @@ Skills: Laravel / PHP / JavaScript / jQuery / Bootstrap / CSS / AJAX / API / MyS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opusaha)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=opusaha&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/opusaha)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=opusaha)  
 
 
