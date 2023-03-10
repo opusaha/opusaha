@@ -1,4 +1,3 @@
-![Web Developer](https://github.com/opusaha/opusaha/blob/main/cover.png)
 
 Hi there 👋, My name is Saboj
 
