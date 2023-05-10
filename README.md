@@ -18,9 +18,14 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
 ## <img alt="Developer Gif" src="./assets/developer.gif" width="40"/> Programming Languages:
 
 <p align="left">
- <a href="https://javascript.info" target="_blank"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/-php-007acc?style=for-the-badge&labelColor=black&logo=php&logoColor=007acc" alt="php" /> </a>
- </p>
+  <a href="https://javascript.info" target="_blank">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white" alt="JavaScript" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=white" alt="PHP" />
+  </a>
+</p>
+
 
 
 <table align="center">
@@ -95,6 +100,9 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
                     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
                         alt="MySQL" />
                 </a>
+                <a href="https://cpanel.net/" target="_blank">
+                    <img src="https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+                </a>
                 <a href="https://firebase.google.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
                         alt="Firebase" />
@@ -114,9 +122,6 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
     </a>
     <a href="https://www.apachefriends.org/index.html" target="_blank">
         <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-    </a>
-    <a href="https://cpanel.net/" target="_blank">
-        <img src="https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
     </a>
     <a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank">
         <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&labelColor=black&logo=windows-terminal&logoColor=white" alt="Terminal" />
