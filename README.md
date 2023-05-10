@@ -14,6 +14,7 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamopusaha)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aposaha)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahaapo@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801616657585)
 
 ## <img alt="Developer Gif" src="./assets/developer.gif" width="40"/> Programming Languages:
 
@@ -68,10 +69,12 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
         </td>
         <td>
             <p align="center">
-                <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
-                    alt="Laravel" />
-                <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-                    alt="PHP" />
+                <a href="https://laravel.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+                </a>
+                <a href="https://www.php.net/" target="_blank">
+                    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+                </a>
             </p>
         </td>
     </tr>
@@ -82,24 +85,34 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
     <tr>
         <td>
             <p align="">
-                <a href="https://vitejs.com" target="_blank"> <img
-                        src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
-                        alt="Postman" /> </a>
-                <a href="https://postman.com" target="_blank"> <img
-                        src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
-                        alt="Vite" /> </a> <a href="https://webpack.com" target="_blank"> <img
-                        src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-                        alt="Webpack" /> </a> <a href="https://eslint.com" target="_blank"> <img
-                        src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"
-                        alt="" /> </a> <a href="https://npmjs.com" target="_blank"> <img
-                        src="https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white"
-                        alt="NPM" /> </a> <a href="https://yarn.com" target="_blank"> <img
-                        src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"
-                        alt="Yarn" /> </a>
-                <a href="https://" target="_blank"> <img
-                        src="https://img.shields.io/badge/Axios-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"
-                        alt="" /> </a>
-                <a href="https://" target="_blank"> <img src=" " alt="" /> </a>
+                <a href="https://postman.com" target="_blank">
+                    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+                        alt="Postman" />
+                </a>
+                <a href="https://vitejs.com" target="_blank">
+                    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
+                        alt="Vite" />
+                </a>
+                <a href="https://webpack.js.org" target="_blank">
+                    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+                        alt="Webpack" />
+                </a>
+                <a href="https://eslint.org" target="_blank">
+                    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"
+                        alt="ESLint" />
+                </a>
+                <a href="https://npmjs.com" target="_blank">
+                    <img src="https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white"
+                        alt="NPM" />
+                </a>
+                <a href="https://yarnpkg.com" target="_blank">
+                    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"
+                        alt="Yarn" />
+                </a>
+                <a href="https://github.com/axios/axios" target="_blank">
+                    <img src="https://img.shields.io/badge/Axios-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"
+                        alt="Axios" />
+                </a>
             </p>
         </td>
         <td>
