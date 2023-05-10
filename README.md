@@ -61,7 +61,6 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
                     alt="PHP" />
             </p>
         </td>
-
     </tr>
     <tr align="left">
         <th><b>👨‍💻Development Tools</b></th>
