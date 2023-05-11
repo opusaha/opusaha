@@ -169,7 +169,7 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
 
 
 <img src="./assets/line.gif">
-<p align="center">Thanks for going through My Portfolio. All rights reserved by Opu Saha</p>
+<p align="center">Thanks for going through My Portfolio. All rights reserved by Saboj Kumar Shaha</p>
 <img src="./assets/line.gif">
 
 
