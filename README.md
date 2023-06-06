@@ -184,4 +184,4 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
 <img src="./assets/line.gif">
 
 
-![Profile views](https://gpvc.arturio.dev/opusaha)  
+<p align="left"><img src="https://komarev.com/ghpvc/?username=opusaha&label=Profile%20views&color=0e75b6&style=flat" alt="opusaha" /></p>
