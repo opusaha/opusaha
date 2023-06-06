@@ -38,32 +38,25 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
         <td>
             <p align="left">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
-                    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-                        alt="HTML" />
+                    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
                 </a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-                    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-                        alt="CSS" />
+                    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
                 </a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                    <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=JAVASCRIPT"
-                        alt="JavaScript" />
+                    <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=JAVASCRIPT" alt="JavaScript" />
                 </a>
                 <a href="https://getbootstrap.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-                        alt="Bootstrap" />
-                </a>
-                <a href="https://tailwindcss.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-                        alt="Tailwind CSS" />
+                    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
                 </a>
                 <a href="https://reactjs.org/" target="_blank">
-                    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-                        alt="Reactjs" />
+                    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Reactjs" />
                 </a>
                 <a href="https://vuejs.org/" target="_blank">
-                    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"
-                        alt="VUE" />
+                    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="VUE" />
+                </a>
+                <a href="https://alpinejs.dev/" target="_blank">
+                    <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
                 </a>
             </p>
         </td>
@@ -74,6 +67,24 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
                 </a>
                 <a href="https://www.php.net/" target="_blank">
                     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+                </a>
+                 <a href="https://laravel-livewire.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/Livewire-FF0000?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+                </a>
+            </p>
+        </td>
+    </tr>
+    <tr align="center">
+        <th> <b>🧪 Testing Frameworks: </b></th>
+    </tr>
+    <tr>
+        <td>
+            <p align="center">
+                <a href="https://pestphp.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/PestPHP-1A1918?style=for-the-badge&logo=pestphp&logoColor=white" alt="PestPHP" />
+                </a>
+                <a href="https://phpunit.de/" target="_blank">
+                    <img src="https://img.shields.io/badge/PHPUnit-7D669E?style=for-the-badge&logo=phpunit&logoColor=white" alt="PHPUnit" />
                 </a>
             </p>
         </td>
