@@ -43,9 +43,6 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
                     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
                 </a>
-                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                    <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=JAVASCRIPT" alt="JavaScript" />
-                </a>
                 <a href="https://getbootstrap.com/" target="_blank">
                     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
                 </a>
@@ -65,9 +62,6 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
                 <a href="https://laravel.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
                 </a>
-                <a href="https://www.php.net/" target="_blank">
-                    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-                </a>
                  <a href="https://laravel-livewire.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Livewire-FF0000?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
                 </a>
@@ -81,7 +75,7 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
         <td colspan="3" >
             <p align="left">
                 <a href="https://laravel.com/docs/dusk" target="_blank">
-                    <img src="https://img.shields.io/badge/Laravel%20Dusk-6C488A?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Dusk" />
+                    <img src="https://img.shields.io/badge/Laravel%20Dusk-e02d19?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Dusk" />
                 </a>
                 <a href="https://pestphp.com/" target="_blank">
                     <img src="https://img.shields.io/badge/PestPHP-1A1918?style=for-the-badge&logo=pestphp&logoColor=white" alt="PestPHP" />
