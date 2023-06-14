@@ -78,8 +78,11 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
         <th colspan="2" > <b>🧪 Testing Frameworks: </b></th>
     </tr>
     <tr>
-        <td colspan="2" >
+        <td colspan="3" >
             <p align="left">
+                <a href="https://laravel.com/docs/dusk" target="_blank">
+                    <img src="https://img.shields.io/badge/Laravel%20Dusk-6C488A?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Dusk" />
+                </a>
                 <a href="https://pestphp.com/" target="_blank">
                     <img src="https://img.shields.io/badge/PestPHP-1A1918?style=for-the-badge&logo=pestphp&logoColor=white" alt="PestPHP" />
                 </a>
