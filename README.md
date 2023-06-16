@@ -5,7 +5,7 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: sahaapo@gmail.com 
-- 🌱 I’m currently learning React & Vue
+- 🌱 I’m currently learning Vue
 
 ##  <img alt="Project Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
 
