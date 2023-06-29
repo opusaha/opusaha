@@ -1,13 +1,20 @@
+### Hi, I'm Saboj Kumar Shaha 👋
 
-Hi there 👋, My name is Saboj
+I'm a **full stack developer** with 1+ years of experience.
 
-I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootstrap, CSS, AJAX, and API. Recently, I have added React and Vue to my skill set. I love to create and maintain websites, and I pride myself on doing quality work and maintaining excellent communication with clients. I have created more than 10 websites for clients, and I am always looking to learn something new. My proficiency in MySQL allows me to work on databases and ensure seamless data management on websites.
+🚀 My Skills: JavaScript, PHP, Laravel, React.js, Vue.js, HTML, CSS, Bootstrap, and more.
 
-- 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: sahaapo@gmail.com 
-- 🌱 I’m currently learning Vue
+💻 I specialize in using **Laravel** with frameworks like **Livewire** and **Filament** to build powerful web applications.
 
-##  <img alt="Project Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
+🔍 I prioritize code quality and reliability using testing frameworks like **Laravel Dusk**, **PestPHP**, and **PHPUnit**.
+
+🛠️ Experienced in using tools like **Postman**, **Vite**, **Webpack**, **ESLint**, **NPM**, **Yarn**, and **Axios**.
+
+📊 Proficient in working with databases like **MySQL**, cloud hosting platforms like **cPanel** and **Firebase**, and version control systems like **Git**.
+
+Let's collaborate and make an impact in technology! 🌟
+
+## <img alt="Project Gif" src="./assets/loadig.gif" width="20"/> Connect with me! <br>
 
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://adeveloper.info/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamopu/)
@@ -26,8 +33,6 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=white" alt="PHP" />
   </a>
 </p>
-
-
 
 <table align="center">
     <tr align="left">
@@ -62,8 +67,11 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
                 <a href="https://laravel.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
                 </a>
-                 <a href="https://laravel-livewire.com/" target="_blank">
+                <a href="https://laravel-livewire.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Livewire-FF0000?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+                </a>
+                <a href="https://filamentadmin.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/Filament-4f46e5?style=for-the-badge&logo=filament&logoColor=white" alt="Filament" />
                 </a>
             </p>
         </td>
@@ -139,8 +147,8 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
             </p>
         </td>
     </tr>
-</table>
 
+</table>
 
 <p align="left">
     <a href="https://git-scm.com" target="_blank">
@@ -157,28 +165,24 @@ I am a web developer with experience in Laravel, PHP, JavaScript, jQuery, Bootst
     </a>
 </p>
 
+## <img src="./assets/chart.gif" width="45"> My Github Stats
 
-## <img src="./assets/chart.gif" width="45"> My Github Stats 
 <p align="center">
 <a href="https://github.com/opusaha/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=opusaha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 
-
 </p>
 
 | [![My Github stats](https://github-readme-stats.vercel.app/api?username=opusaha&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/opusaha) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opusaha&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/opusaha) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br/>
 <b>📓 Notes:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 <br/>
 <br>
 
-
-
 <img src="./assets/line.gif">
 <p align="center">Thanks for going through My Portfolio. All rights reserved by Saboj Kumar Shaha</p>
 <img src="./assets/line.gif">
-
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=opusaha&label=Profile%20views&color=0e75b6&style=flat" alt="opusaha" /></p>
