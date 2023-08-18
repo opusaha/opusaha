@@ -1,8 +1,8 @@
 ### Hi, I'm Saboj Kumar Shaha 👋
 
-I'm a **full stack developer** with 1+ years of experience.
+I'm a **Backend Developer** with 1+ years of experience.
 
-🚀 My Skills: JavaScript, PHP, Laravel, React.js, Vue.js, HTML, CSS, Bootstrap, and more.
+🚀 My Skills: JavaScript, PHP, Laravel, Vue.js, HTML, CSS, Tailwind, Bootstrap, and more.
 
 💻 I specialize in using **Laravel** with frameworks like **Livewire** and **Filament** to build powerful web applications.
 
@@ -42,11 +42,14 @@ Let's collaborate and make an impact in technology! 🌟
     <tr>
         <td>
             <p align="left">
-                <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+               <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
                     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
                 </a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
                     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+                </a>
+                <a href="https://tailwindcss.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
                 </a>
                 <a href="https://getbootstrap.com/" target="_blank">
                     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -77,10 +80,11 @@ Let's collaborate and make an impact in technology! 🌟
         </td>
     </tr>
     <tr align="left">
-        <th colspan="2" > <b>🧪 Testing Frameworks: </b></th>
+        <th> <b>🧪 Testing Frameworks: </b></th>
+        <th> <b>🪟 Operating System: </b></th>
     </tr>
     <tr>
-        <td colspan="3" >
+        <td>
             <p align="left">
                 <a href="https://laravel.com/docs/dusk" target="_blank">
                     <img src="https://img.shields.io/badge/Laravel%20Dusk-e02d19?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Dusk" />
@@ -90,6 +94,16 @@ Let's collaborate and make an impact in technology! 🌟
                 </a>
                 <a href="https://phpunit.de/" target="_blank">
                     <img src="https://img.shields.io/badge/PHPUnit-7D669E?style=for-the-badge&logo=phpunit&logoColor=white" alt="PHPUnit" />
+                </a>
+            </p>
+        </td>
+        <td>
+            <p align="center">
+                <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+                    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows" />
+                </a>
+                <a href="https://www.linux.org/" target="_blank">
+                    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
                 </a>
             </p>
         </td>
