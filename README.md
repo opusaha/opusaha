@@ -1,18 +1,16 @@
 ### Hi, I'm Saboj Kumar Shaha 👋
 
-I'm a **Backend Developer** with 1+ years of experience.
+I'm a **Backend Developer** with 2 years of experience.
 
-🚀 My Skills: JavaScript, PHP, Laravel, Vue.js, HTML, CSS, Tailwind, Bootstrap, and more.
+🚀 Here's a glimpse of my skill set: JavaScript, PHP, Laravel, Vue.js, Tailwind, Bootstrap, and more.
 
-💻 I specialize in using **Laravel** with frameworks like **Livewire** and **Filament** to build powerful web applications.
+💻 My expertise lies in harnessing the power of **Laravel**, coupled with frameworks such as **VueJs**, **Livewire**, and **Filament**, to architect feature-rich web applications.
 
-🔍 I prioritize code quality and reliability using testing frameworks like **Laravel Dusk**, **PestPHP**, and **PHPUnit**.
-
-🛠️ Experienced in using tools like **Postman**, **Vite**, **Webpack**, **ESLint**, **NPM**, **Yarn**, and **Axios**.
+🧪 Ensuring the highest standards of code quality and reliability is a top priority for me. I achieve this by implementing testing frameworks like **Laravel Dusk**, **PestPHP**, and **PHPUnit**.
 
 📊 Proficient in working with databases like **MySQL**, cloud hosting platforms like **cPanel** and **Firebase**, and version control systems like **Git**.
 
-Let's collaborate and make an impact in technology! 🌟
+Let's collaborate and make a positive impact in the world of technology! 🌟
 
 ## <img alt="Project Gif" src="./assets/loadig.gif" width="20"/> Connect with me! <br>
 
