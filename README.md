@@ -40,11 +40,14 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
     <tr>
         <td>
             <p align="left">
-               <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
-                    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+                <a href="https://vuejs.org/" target="_blank">
+                    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="VUE" />
                 </a>
-                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-                    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+                <a href="https://reactjs.org/" target="_blank">
+                    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Reactjs" />
+                </a>
+                <a href="https://alpinejs.dev/" target="_blank">
+                    <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
                 </a>
                 <a href="https://tailwindcss.com/" target="_blank">
                     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -52,14 +55,14 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
                 <a href="https://getbootstrap.com/" target="_blank">
                     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
                 </a>
-                <a href="https://reactjs.org/" target="_blank">
-                    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Reactjs" />
+                <a href="https://jquery.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
                 </a>
-                <a href="https://vuejs.org/" target="_blank">
-                    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="VUE" />
+               <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+                    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
                 </a>
-                <a href="https://alpinejs.dev/" target="_blank">
-                    <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
+                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+                    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
                 </a>
             </p>
         </td>
