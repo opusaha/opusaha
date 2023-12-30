@@ -43,9 +43,6 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
                 <a href="https://vuejs.org/" target="_blank">
                     <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="VUE" />
                 </a>
-                <a href="https://reactjs.org/" target="_blank">
-                    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Reactjs" />
-                </a>
                 <a href="https://alpinejs.dev/" target="_blank">
                     <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
                 </a>
