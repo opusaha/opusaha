@@ -1,6 +1,6 @@
 ### Hi, I'm Saboj Kumar Shaha 👋
 
-I'm a **Backend Developer** with 2 years of experience.
+I'm a **Backend Developer** with 3 years of experience.
 
 🚀 Here's a glimpse of my skill set: JavaScript, PHP, Laravel, Vue.js, Tailwind, Bootstrap, and more.
 
@@ -152,9 +152,17 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
                 <a href="https://cpanel.net/" target="_blank">
                     <img src="https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
                 </a>
-                <a href="https://firebase.google.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
-                        alt="Firebase" />
+                <a href="https://aws.amazon.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+                </a>
+                <a href="https://www.digitalocean.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+                </a>
+                <a href="https://www.hetzner.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/Hetzner-DC3723?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+                </a>
+                <a href="https://forge.laravel.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/Laravel%20Forge-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Forge" />
                 </a>
             </p>
         </td>
