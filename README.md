@@ -40,6 +40,12 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
     <tr>
         <td>
             <p align="left">
+                <a href="https://reactjs.org/" target="_blank">
+                    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+                </a>
+                <a href="https://nextjs.org/" target="_blank">
+                    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+                </a>
                 <a href="https://vuejs.org/" target="_blank">
                     <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="VUE" />
                 </a>
@@ -55,7 +61,7 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
                 <a href="https://jquery.com/" target="_blank">
                     <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
                 </a>
-               <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+                <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
                     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
                 </a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -64,7 +70,7 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
             </p>
         </td>
         <td>
-            <p align="center">
+            <p align="left">
                 <a href="https://laravel.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
                 </a>
@@ -96,7 +102,7 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
             </p>
         </td>
         <td>
-            <p align="center">
+            <p align="left">
                 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
                     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows" />
                 </a>
@@ -107,47 +113,39 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
         </td>
     </tr>
     <tr align="left">
-        <th><b>👨‍💻Development Tools</b></th>
-        <th> <b>📱Databases & Cloud Hosting </b></th>
+        <th><b>👨‍💻 Development Tools: </b></th>
+        <th> <b>📱 Databases & Cloud Hosting: </b></th>
     </tr>
     <tr>
         <td>
-            <p align="">
+            <p align="left">
                 <a href="https://postman.com" target="_blank">
-                    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
-                        alt="Postman" />
+                    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
                 </a>
                 <a href="https://vitejs.com" target="_blank">
-                    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
-                        alt="Vite" />
+                    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
                 </a>
                 <a href="https://webpack.js.org" target="_blank">
-                    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-                        alt="Webpack" />
+                    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
                 </a>
                 <a href="https://eslint.org" target="_blank">
-                    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"
-                        alt="ESLint" />
+                    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
                 </a>
                 <a href="https://npmjs.com" target="_blank">
-                    <img src="https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white"
-                        alt="NPM" />
+                    <img src="https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
                 </a>
                 <a href="https://yarnpkg.com" target="_blank">
-                    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"
-                        alt="Yarn" />
+                    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
                 </a>
                 <a href="https://github.com/axios/axios" target="_blank">
-                    <img src="https://img.shields.io/badge/Axios-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"
-                        alt="Axios" />
+                    <img src="https://img.shields.io/badge/Axios-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Axios" />
                 </a>
             </p>
         </td>
         <td>
-            <p align="center">
+            <p align="left">
                 <a href="https://www.mysql.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-                        alt="MySQL" />
+                    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
                 </a>
                 <a href="https://cpanel.net/" target="_blank">
                     <img src="https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
@@ -167,7 +165,34 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
             </p>
         </td>
     </tr>
-
+    <tr align="left">
+        <th><b>🔄 CI/CD & DevOps: </b></th>
+        <th></th>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <p align="left">
+                <a href="https://github.com/features/actions" target="_blank">
+                    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+                </a>
+                <!-- <a href="https://about.gitlab.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
+                </a>
+                <a href="https://www.jenkins.io/" target="_blank">
+                    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+                </a>
+                <a href="https://circleci.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
+                </a>
+                <a href="https://travis-ci.org/" target="_blank">
+                    <img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" alt="Travis CI" />
+                </a>
+                <a href="https://www.docker.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+                </a> -->
+            </p>
+        </td>
+    </tr>
 </table>
 
 <p align="left">
