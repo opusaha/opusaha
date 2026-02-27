@@ -1,20 +1,20 @@
 ### Hi, I'm Saboj Kumar Shaha 👋
 
-I'm a **Backend Developer** with 3 years of experience.
+I'm a **Full stack developer** with 4 years of experience.
 
-🚀 Here's a glimpse of my skill set: JavaScript, PHP, Laravel, Vue.js, Tailwind, Bootstrap, and more.
+🚀 Here's a glimpse of my skill set: Python, JavaScript, PHP, Laravel, Vue.js, Tailwind, Bootstrap, and more.
 
-💻 My expertise lies in harnessing the power of **Laravel**, coupled with frameworks such as **VueJs**, **Livewire**, and **Filament**, to architect feature-rich web applications.
+💻 My expertise lies in harnessing the power of **Laravel** and **Python**, coupled with frameworks such as **VueJs**, **Livewire**, and **Filament**, to architect feature-rich web applications.
 
-🧪 Ensuring the highest standards of code quality and reliability is a top priority for me. I achieve this by implementing testing frameworks like **Laravel Dusk**, **PestPHP**, and **PHPUnit**.
+🧪 Ensuring the highest standards of code quality and reliability is a top priority for me. I have extensive experience in **QA/QC** and implementing testing frameworks like **Laravel Dusk**, **PestPHP**, and **PHPUnit**.
 
-📊 Proficient in working with databases like **MySQL**, cloud hosting platforms like **cPanel** and **Firebase**, and version control systems like **Git**.
+📊 Proficient in working with databases like **MySQL**, various **VPS** providers (AWS, DigitalOcean, Hetzner, etc.), cloud hosting platforms like **cPanel** and **Firebase**, and advanced **Git workflows** for seamless deployment.
 
 Let's collaborate and make a positive impact in the world of technology! 🌟
 
 ## <img alt="Project Gif" src="./assets/loadig.gif" width="20"/> Connect with me! <br>
 
-[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://adeveloper.info/)
+[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://opu.stakorax.com/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamopu/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamopusaha)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aposaha)
@@ -29,6 +29,9 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=white" alt="PHP" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python" />
   </a>
 </p>
 
@@ -74,6 +77,9 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
                 <a href="https://laravel.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
                 </a>
+                <a href="https://www.python.org/" target="_blank">
+                    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+                </a>
                 <a href="https://laravel-livewire.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Livewire-FF0000?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
                 </a>
@@ -84,7 +90,7 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
         </td>
     </tr>
     <tr align="left">
-        <th> <b>🧪 Testing Frameworks: </b></th>
+        <th> <b>🧪 QA / QC & Testing: </b></th>
         <th> <b>🪟 Operating System: </b></th>
     </tr>
     <tr>
@@ -159,6 +165,9 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
                 <a href="https://www.hetzner.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Hetzner-DC3723?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
                 </a>
+                <a href="https://www.vultr.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/Vultr-007bfc?style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr" />
+                </a>
                 <a href="https://forge.laravel.com/" target="_blank">
                     <img src="https://img.shields.io/badge/Laravel%20Forge-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Forge" />
                 </a>
@@ -175,21 +184,9 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
                 <a href="https://github.com/features/actions" target="_blank">
                     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
                 </a>
-                <!-- <a href="https://about.gitlab.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
+                <a href="https://git-scm.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/Git%20Workflow-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git Workflow" />
                 </a>
-                <a href="https://www.jenkins.io/" target="_blank">
-                    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-                </a>
-                <a href="https://circleci.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
-                </a>
-                <a href="https://travis-ci.org/" target="_blank">
-                    <img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" alt="Travis CI" />
-                </a>
-                <a href="https://www.docker.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-                </a> -->
             </p>
         </td>
     </tr>
