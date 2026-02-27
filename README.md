@@ -210,13 +210,16 @@ Let's collaborate and make a positive impact in the world of technology! 🌟
 ## <img src="./assets/chart.gif" width="45"> My Github Stats
 
 <p align="center">
-<a href="https://github.com/opusaha/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=opusaha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=opusaha&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
-| [![My Github stats](https://github-readme-stats.vercel.app/api?username=opusaha&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/opusaha) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opusaha&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/opusaha) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opusaha&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=opusaha&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opusaha&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) |
+| :---: | :---: |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=opusaha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://git.io/streak-stats) | |
 
 <br/>
 <b>📓 Notes:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
